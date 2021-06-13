@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Harshith
+### Hi there 👋 I'm Harshith!
 
 I'm a Grade 11 student at Port Credit Secondary School and a part-time intern at Apollo.io. I've at companies like **myBlueprint** and **BlueStacks** in the past.
 
