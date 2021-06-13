@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Harshith
 
-<!--
-**harshithl1777/harshithl1777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Grade 11 student at Port Credit Secondary School and a part-time intern at Apollo.io. I've at companies like **myBlueprint** and **BlueStacks** in the past.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Roadrunner** (a middleware application for data processing between Google Sheets and Trello)
+- ✅ My skills include **React, Nodejs, Express, PostgreSQL, MongoDB, Firebase, TypeScript and Python**
+- 🌱 I’m currently learning **Ruby on Rails**
+- 👯 I’m looking to collaborate on any type of fullstack development project
+- 💬 Ask me about UI/UX Design and Node.js
+- 📫 How to reach me: https://harshithl.me
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: I once stapled my ring finger by accident when I was 6. 😬 Ouch... that one hurt quite a bit.
