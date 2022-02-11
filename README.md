@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Harshith!
 
-I'm a Grade 12 student at Port Credit Secondary School. I've at companies like **Apollo.io**, **myBlueprint** and **BlueStacks** in the past.
+I'm a Grade 12 student at Port Credit Secondary School. I've worked at companies like **Apollo.io**, **myBlueprint** and **BlueStacks** in the past.
 
 - 🔭 I’m currently working on improving an app called **Beacon** (a crowdsourced stock and lines data platform for consumers in the pandemic)
 - ✅ My skills include **React, Nodejs, Express, PostgreSQL, MongoDB, Firebase, TypeScript and Python**
