@@ -6,6 +6,3 @@ I'm a 2st Year Computer Science student at the University of Toronto. In the pas
 - ✅ My skills include **React, Node.js, Express, PostgreSQL, MongoDB, Go, TypeScript and Python**
 - 🌱 I’m currently learning **Ruby on Rails**
 - 📫 Shoot me an [email](mailto:harshithl1777@gmail.com)
-
-
-[![Harshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshithl1777)](https://github.com/anuraghazra/github-readme-stats)
