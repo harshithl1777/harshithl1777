@@ -3,8 +3,8 @@
 I'm a 1st Year studying Computer Science at U of T. In the past, I've worked at companies like **IBM**, **Apollo.io**, **myBlueprint** and **BlueStacks**.
 
 - 🔭 I’m currently working on improving an app called **Beacon** (a crowdsourced stock and lines data platform for consumers in the pandemic)
-- ✅ My skills include **React, Nodejs, Express, PostgreSQL, MongoDB, Firebase, TypeScript and Python**
-- 🌱 I’m currently learning **Go**
+- ✅ My skills include **React, Node.js, Express, PostgreSQL, MongoDB, Go, TypeScript and Python**
+- 🌱 I’m currently learning **Ruby on Rails**
 - 📫 Shoot me an [email](harshithl1777@gmail.com)
 
 
